@@ -1,0 +1,37 @@
+Game Design Document
+
+Generell Ideen:
+
+- rouge like (lite?) 
+- limbs idee/mechanics 
+	-> vorraussetzung für verschiedene branches
+	-> mutations + kreuzung etc. für mehr komplexität
+- tier götter 
+- multiple branches -> non-linear branching
+- combat system turnbased
+	-> eher kompliziert/ challenging (nicht nur tackle)
+- game start ohne genaue anweisungen/erklärungen 
+	-> learning by doing + infos stück für stück
+- character classes (nicht zu viele) für verschiedene Spielertypen
+
+--------------------------------------------------------------------------
+
+Thema:
+
+- eher dark
+- abwechslungsreiche environments ( unterwasser, wüster, sumpf, ...)
+
+- Setting:
+
+	-> fantasy steampunk okkult originell
+	-> nicht "schrecklich", sonder eher "normalisiert"	
+	-> keine narrative für moral
+	-> nicht dungeon-lastig
+
+--------------------------------------------------------------------------
+
+Style:
+
+- erstmal 2D tilemap (pokemon like)
+
+
